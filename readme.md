@@ -2,7 +2,7 @@
 
   These templates are designed to help you kickstart your infrastructure as code journey with Terraform on AWS. Whether you're a beginner or an experienced user, you'll find these templates useful for creating, managing, and scaling your infrastructure.
 
-## Project List
+## Templates List
 
 
 ### 1. Terraform Instance Creation
